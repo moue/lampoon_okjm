@@ -1,0 +1,11 @@
+background blue #2855a2
+table head blue #96b7ff
+link pink #ff1e72
+subsections #555555
+font family Verdana,"Bitstream Vera Sans",sans-serif
+form dark blue border #051950
+darker divider #143778
+dark blue side bar and section headings #143778
+button blue #3872b3
+
+another blue #2962a3 
